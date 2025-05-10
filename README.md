@@ -17,5 +17,5 @@ Set up a private Git server on a Linux machine and integrated it securely with G
 
 ## Usage
 
-See [setup/install_git_server.md](setup/install_git_server.md),[setup/github_integration.md](setup/github_integration.md) and [setup/usage.md](setup/usage.md)
+See [setup/install_git_server.md](setup/install_git_server.md), [setup/github_integration.md](setup/github_integration.md) and [setup/usage.md](setup/usage.md)
 for full walkthrough.
