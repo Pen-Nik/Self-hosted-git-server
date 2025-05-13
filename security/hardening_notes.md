@@ -32,7 +32,7 @@ Ensure you are using SSH keys for access, and disable password authentication as
 
 - **Allow only necessary ports:**
 
-Set up a firewall to allow only SSH (port 22) for access and block unnecessary ports.
+Set up firewall to allow only SSH (port 22) for access and block unnecessary ports.
 
 ```bash
 sudo ufw allow 22/tcp
